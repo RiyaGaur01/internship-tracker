@@ -39,11 +39,11 @@ A React-based Internship Tracker application that helps users manage and monitor
 
 ### Applications Form
 
-![Applications Form](screenshots/Applications_form.png)
+![Applications Form](screenshots/Application_form.png)
 
 ### Applications List
 
-![Applications List](screenshots/Applications_List.png)
+![Applications List](screenshots/Application_List.png)
 
 ### Analytics
 
