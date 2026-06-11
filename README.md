@@ -1,3 +1,34 @@
+# Internship Tracker
+
+A React-based Internship Tracker application that helps users manage and monitor internship applications.
+
+## Features
+
+- Login Validation
+- Dashboard Analytics
+- Application Tracking
+- Add/Edit/Delete Applications
+- Search Applications
+- Filter by Status
+- CSV Export
+- Chart Visualization
+- Local Storage Persistence
+- API Data Integration
+
+## Tech Stack
+
+- React
+- React Router
+- Context API
+- Tailwind CSS
+- Chart.js
+- Local Storage
+
+## Installation
+
+```bash
+npm install
+npm run dev
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
