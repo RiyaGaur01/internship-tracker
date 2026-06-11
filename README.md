@@ -27,6 +27,28 @@ A React-based Internship Tracker application that helps users manage and monitor
 - Chart.js
 - Local Storage
 
+## Screenshots
+
+### Login Page
+
+![Login](screenshots/login-page.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Applications Form
+
+![Applications Form](screenshots/applications-form.png)
+
+### Applications List
+
+![Applications List](screenshots/applications-list.png)
+
+### Analytics
+
+![Analytics](screenshots/analytics-chart.png)
+
 ## Installation
 
 ```bash
