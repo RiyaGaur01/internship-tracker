@@ -31,23 +31,23 @@ A React-based Internship Tracker application that helps users manage and monitor
 
 ### Login Page
 
-![Login](screenshots/login-page.png)
+![Login](screenshots/Login_page.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard_1.png)
 
 ### Applications Form
 
-![Applications Form](screenshots/applications-form.png)
+![Applications Form](screenshots/Applications_form.png)
 
 ### Applications List
 
-![Applications List](screenshots/applications-list.png)
+![Applications List](screenshots/Applications_List.png)
 
 ### Analytics
 
-![Analytics](screenshots/analytics-chart.png)
+![Analytics](screenshots/analytics_chart.png)
 
 ## Installation
 
